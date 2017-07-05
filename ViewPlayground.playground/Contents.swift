@@ -30,3 +30,14 @@ let nc = UINavigationController(rootViewController: vc)
 
 
 PlaygroundPage.current.liveView = nc
+
+
+"A" < "B"
+
+"A" > "K"
+
+"K" < "#"
+
+"K" > "#"
+
+
